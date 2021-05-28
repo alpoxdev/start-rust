@@ -1,0 +1,8 @@
+[package]
+name = "hello-rust"
+version = "0.1.0"
+authors = ["alpoxdev <alpoxdev@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+ferris-says = "0.2"
