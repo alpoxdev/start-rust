@@ -2,4 +2,4 @@
 
 ## hello-rust
 
-initing with cargo, and using dependencies `ferris-says`
+initing with `cargo`, and using dependencies `ferris-says`
