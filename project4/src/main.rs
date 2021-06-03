@@ -1,3 +1,5 @@
 fn main() {
-    println!("Hello, world!");
+    let data = "hello, world";
+    let string: String = data.to_string();
+    println!("{}", data);
 }
