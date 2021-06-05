@@ -1,3 +1,5 @@
+// 5.2 An Example Program Using Structs
+
 #[derive(Debug)]
 struct Rectangle {
     height: u32,
